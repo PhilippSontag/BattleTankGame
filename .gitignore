@@ -1,5 +1,11 @@
 # Visual Studio 2015 user specific files
 .vs/
+*.VC.db
+*.opensdf
+*.suo
+*.sln
+*.db-wal
+*.db-shm
 
 # Compiled Object files
 *.slo
